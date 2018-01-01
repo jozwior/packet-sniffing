@@ -2,11 +2,6 @@
 import socket, sys
 from struct import *
  
-# TODO
-# search by address
-# search by ports
-# search by multiple addresses and ports
-
 try:
   s = socket.socket(socket.AF_PACKET, socket.SOCK_RAW, socket.ntohs(0x0003))
 except socket.error as msg:
