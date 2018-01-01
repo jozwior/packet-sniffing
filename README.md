@@ -6,7 +6,10 @@ Dump traffic on a network
 ## Usage
 
 We need sudo or root privileges to run this script
-```sudo python sniffer.py```
+
+```sh
+$ sudo python sniffer.py
+```
 
 ## TODO
 
