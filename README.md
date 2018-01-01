@@ -3,12 +3,12 @@
 Simple python script for analize packets.
 Dump traffic on a network
 
-# Usage
+## Usage
 
 We need sudo or root privileges to run this script
 ```sudo python sniffer.py```
 
-# TODO
+## TODO
 
 * search by address
 * search by ports
